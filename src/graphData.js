@@ -21,6 +21,7 @@ function fixJSON() {
     let edges = graph["edges"]
     graph["nodes"] = nodes.map(addLabel)
     graph["edges"] = edges.map(fromto)
+    graph["id"] = i
   }
 }
 

@@ -18,6 +18,12 @@ class App extends Component {
     this.prevPile = this.prevPile.bind(this);
   }
 
+  componentDidMount() {
+    // console.log("graph container mounted")
+    // console.log(this.state.currentPile)
+    console.log(graphData)
+  }
+
 
   // objectEquals(objA, objB){
   //   /*
@@ -78,21 +84,42 @@ class App extends Component {
 
   getPiles() {
 
-    let tempPiles = []
+    let pileDict = {}
+    // for some reason when I do loops like this, g is the index, not the value
+    for (let g in graphData){
+      let currID = graphData[g].id
+      pileDict[currID] = []
+    }
+
     for (let g1 in graphData) {
+      let baseID = graphData[g1].id
+
+      // graphs not in the dict should not be considered as pile bases
+      if (!(baseID in pileDict)) {
+        continue
+      }
+
       let tempList = [];
 
       for (let g2 in graphData) {
         /* if graph1 is a subset of graph 2 then add it to the pile (inclusive subset so graph1 will also be added)*/
         if (this.graphAinB(graphData[g1], graphData[g2])) {
           tempList.push(graphData[g2])
+
+          // remove superset graphs from list of base graphs (not including the base graph)
+          if (!(graphData[g2].id == baseID)) {
+            delete pileDict[graphData[g2].id]
+          }
         }
       }
 
-      tempPiles.push(tempList)
+      pileDict[baseID] = tempList
     }
-
-    return tempPiles;
+    let pileList = []
+    for (let p in pileDict) {
+      pileList.push(pileDict[p])
+    }
+    return pileList;
 
   }
 
