@@ -163,6 +163,7 @@ class GraphContainer extends Component {
 
   render(){
     console.log("aaa", this.state.currentEdges);
+    console.log("ccc", this.state.currentNodes);
     return (
       <div className="graph-container">
         <GraphDisplay key={Math.random()} nodes={this.state.currentNodes} edges={this.state.currentEdges} />

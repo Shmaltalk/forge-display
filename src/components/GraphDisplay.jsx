@@ -7,6 +7,7 @@ class GraphDisplay extends Component {
     super(props);
   }
 
+  //aaa
   // componentDidMount() {
   //   console.log("graph display mounted");
   //   console.log(this.props.nodes)
