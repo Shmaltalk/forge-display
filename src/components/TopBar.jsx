@@ -9,7 +9,7 @@ class TopBar extends Component {
     return (
       <div className="top-bar">
         <button onClick={this.props.prevPile}>
-          Previous
+          PREEVIOUS
         </button>
 
         <button onClick={this.props.nextPile}>
