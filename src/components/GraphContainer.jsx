@@ -16,6 +16,7 @@ class GraphContainer extends Component {
   componentDidMount() {
     // console.log("graph container mounted")
     // console.log(this.state.currentPile)
+    //aaaaaa
     this.update(this.props.pile);
   }
 
