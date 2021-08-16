@@ -9,67 +9,68 @@ class GraphContainer extends Component {
       requiredNodes: [],
       requiredEdges: [],
       currentNodes: [],
-      currentEdges: []
+      currentEdges: [],
+      currentPile: []
     }
+
+    this.addRequirement = this.addRequirement.bind(this);
   }
 
   componentDidMount() {
-    // console.log("graph container mounted")
+    console.log("graph container mounted")
     // console.log(this.state.currentPile)
-    this.update(this.props.pile);
+    this.update([], []);
   }
 
   componentDidUpdate(prevProps) {
     if (this.props.pile !== prevProps.pile) {
-      // console.log("graph container updated");
+      console.log("graph container updated from componentDidUpdate");
       // console.log(this.props.pile);
-      this.update(this.props.pile);
+      this.update([], []);
     }
 
   }
 
-  // checkRequired() {
-  //   for (let g in this.props.pile) {
+  requiredInList(required, listA){
+    /*
+      checks if all ids in required list are in a list of objects (listA)
+    */
 
-  //   }
-  // }
+    let listA_IDs = []
+    for (let i in listA) {
+      listA_IDs.push(listA[i].id)
+    }
 
-  // nodeInCurrent(testNode) {
-  //   for (let n in this.state.currentNodes) {
+    let isSubset = true;
+    for (let l in required) {
+      isSubset = isSubset && (listA_IDs.includes(required[l]));
+    }
 
-  //     if (testNode.id === this.state.currentNodes[n].id) {
-        
+    return isSubset;
+  }
 
-  //       this.setState(({currentNodes}) => ({
-  //         currentNodes: [
-  //           ...currentNodes.slice(0, n),
-  //           {
-  //             ...currentNodes[n],
-  //             count: this.state.currentNodes + 1
-  //           },
-  //           currentNodes.slice(n+1)
-  //         ]
-  //       }));
+  updatePile(reqNodes, reqEdges) {
+    
+    let tempPile = [];
+    console.log("props pile", this.props.pile)
+    console.log("required nodes", this.state.requiredNodes)
+    console.log("required edges", this.state.requiredEdges)
 
-  //       console.log("eq")
+    // set the current pile to only include graphs with the minimum required nodes and edges
+    for (let g in this.props.pile) {
+      let graph = this.props.pile[g];
+      
+      // checks if includes all required nodes and edges
+      if (this.requiredInList(reqNodes, graph["nodes"]) && this.requiredInList(reqEdges, graph["edges"])) {
+        tempPile.push(graph);
+      }
+    }
 
-  //       return;
-  //     }
-  //   }
-  //   console.log("not eq")
-  //   console.log(this.state.currentNodes)
-  //   console.log(testNode)
-  //   // if it wasn't already in the list of nodes
-  //   let updateNode = testNode;
-  //   updateNode["count"] = 1;
+    console.log("temp pile", tempPile);
+    return tempPile;
+  }
 
-  //   this.setState(({currentNodes}) => ({
-  //     currentNodes: currentNodes.concat(updateNode)
-  //   }));
-  // }
-  
-
-  countNodes(pile) {
+  getNodes(pile) {
     let count = {}
     let listNodes = []
 
@@ -93,10 +94,10 @@ class GraphContainer extends Component {
       listNodes[n]["opacity"] = count[listNodes[n].id]/pile.length;
     }
 
-    this.setState({currentNodes: listNodes}, () => {console.log("callback from setstate")});
+    return listNodes;
   }
 
-  countEdges(pile) {
+  getEdges(pile) {
     let count = {}
     let listEdges = []
 
@@ -120,52 +121,48 @@ class GraphContainer extends Component {
       listEdges[e]["color"] = { "opacity": count[listEdges[e].id]/pile.length };
     }
 
-    this.setState({currentEdges: listEdges});
+    return listEdges;
   }
 
 
-  update(pile) {
-    this.countNodes(pile);
-    this.countEdges(pile);
+  addRequirement(event) {
+    console.log("clickk", event.nodes[0], event.edges[0]);
+    let newRequiredNodes = this.state.requiredNodes;
+    let newRequiredEdges = this.state.requiredEdges;
+    if (event.nodes.length === 1) {
+      newRequiredNodes = this.state.requiredNodes.concat(event.nodes[0]);
+      console.log("required nodes", this.state.requiredNodes);
 
-    // // replace count with opacity (% of graphs)
-    // for (let n in this.state.currentNodes) {
-    //   let op = this.state.currentNodes[n].count / this.state.currentPile.length;
-    //   this.setState(({currentNodes}) => ({
-    //     currentNodes: [
-    //       ...currentNodes.slice(0, n),
-    //       {
-    //         ...currentNodes[n],
-    //         opacity: op
-    //       },
-    //       currentNodes.slice(n+1)
-    //     ]
-    //   }));
-    // }
+    } else if (event.edges.length === 1){
+      newRequiredEdges = this.state.requiredEdges.concat(event.edges[0]);
+      console.log("required edges", this.state.requiredEdges);
+    }
 
-    // for (let e in this.state.currentEdges) {
-    //   let op = this.state.currentEdges[e].count / this.state.currentPile.length;
-      
-    //   this.setState(({currentEdges}) => ({
-    //     currentEdges: [
-    //       ...currentEdges.slice(0, e),
-    //       {
-    //         ...currentEdges[e],
-    //         color: {"opacity": op}
-    //       },
-    //       currentEdges.slice(e+1)
-    //     ]
-    //   }));
-    // }
+    this.update(newRequiredNodes, newRequiredEdges);
+
   }
 
+  update(reqNodes, reqEdges) {
+    let newPile = this.updatePile(reqNodes, reqEdges);
+    let newNodes = this.getNodes(newPile);
+    let newEdges = this.getEdges(newPile);
+    this.setState({
+      requiredNodes: reqNodes,
+      requiredEdges: reqEdges,
+      currentEdges: newEdges,
+      currentNodes: newNodes,
+      currentPile: newPile
+    });
+  }
 
 
   render(){
-    console.log("aaa", this.state.currentEdges);
+    console.log("passed pile", this.state.currentPile);
+    console.log("passed nodes", this.state.currentNodes);
+    console.log("passed edges", this.state.currentEdges);
     return (
       <div className="graph-container">
-        <GraphDisplay key={Math.random()} nodes={this.state.currentNodes} edges={this.state.currentEdges} />
+        <GraphDisplay key={Math.random()} nodes={this.state.currentNodes} edges={this.state.currentEdges} addRequirement={this.addRequirement} />
       </div>
     )
   }

@@ -12,6 +12,10 @@ class GraphDisplay extends Component {
   //   console.log(this.props.nodes)
   // }
 
+  temp(event) {
+    console.log("click!!", event)
+  }
+
   render(){
     const graph = {
       "nodes": this.props.nodes,
@@ -34,8 +38,9 @@ class GraphDisplay extends Component {
     };
   
     const events = {
-      select: function(event) {
+      doubleClick: (event) => {
         var { nodes, edges } = event;
+        this.props.addRequirement(event);
       }
     };
     return (

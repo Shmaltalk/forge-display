@@ -107,7 +107,7 @@ class App extends Component {
           tempList.push(graphData[g2])
 
           // remove superset graphs from list of base graphs (not including the base graph)
-          if (!(graphData[g2].id == baseID)) {
+          if (!(graphData[g2].id === baseID)) {
             delete pileDict[graphData[g2].id]
           }
         }
