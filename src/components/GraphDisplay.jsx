@@ -24,7 +24,11 @@ class GraphDisplay extends Component {
   
     const options = {
       layout: {
-        hierarchical: false
+        hierarchical: false,
+        randomSeed: 2
+      },
+      physics: {
+        enabled: false
       },
       edges: {
         color: {color: "#000000"},
