@@ -55,18 +55,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$3",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -158,18 +146,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$3",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -269,18 +245,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -393,18 +357,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -516,18 +468,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -641,18 +581,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -770,18 +698,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -899,18 +815,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -1022,18 +926,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -1151,18 +1043,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -1280,18 +1160,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -1410,18 +1278,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -1539,18 +1395,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -1660,18 +1504,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -1778,18 +1610,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -1907,18 +1727,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -2037,18 +1845,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -2165,18 +1961,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -2295,18 +2079,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -2418,18 +2190,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -2548,18 +2308,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -2677,18 +2425,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -2800,18 +2536,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -2925,18 +2649,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -3045,18 +2757,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -3170,18 +2870,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -3294,18 +2982,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -3417,18 +3093,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -3547,18 +3211,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -3670,18 +3322,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -3795,18 +3435,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -3923,18 +3551,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -4053,18 +3669,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -4176,18 +3780,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -4301,18 +3893,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -4422,18 +4002,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -4540,18 +4108,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -4670,18 +4226,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -4794,18 +4338,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -4922,18 +4454,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -5052,18 +4572,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -5176,18 +4684,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -5289,18 +4785,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -5392,18 +4876,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -5494,18 +4966,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -5600,18 +5060,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -5716,18 +5164,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -5825,18 +5261,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -5928,18 +5352,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -6030,18 +5442,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -6129,18 +5529,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -6232,18 +5620,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -6329,18 +5705,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -6449,18 +5813,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -6577,18 +5929,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -6707,18 +6047,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -6823,18 +6151,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -6939,18 +6255,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -7049,18 +6353,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -7168,18 +6460,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -7292,18 +6572,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -7405,18 +6673,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -7509,18 +6765,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -7612,18 +6856,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -7714,18 +6946,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -7812,18 +7032,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -7916,18 +7124,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -8013,18 +7209,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -8119,18 +7303,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -8244,18 +7416,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -8365,18 +7525,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -8472,18 +7620,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -8591,18 +7727,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -8721,18 +7845,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -8834,18 +7946,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -8944,18 +8044,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -9060,18 +8148,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -9177,18 +8253,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -9300,18 +8364,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -9429,18 +8481,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -9550,18 +8590,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -9675,18 +8703,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -9804,18 +8820,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -9932,18 +8936,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -10054,18 +9046,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -10173,18 +9153,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -10289,18 +9257,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -10405,18 +9361,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -10516,18 +9460,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -10626,18 +9558,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -10742,18 +9662,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -10861,18 +9769,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -10985,18 +9881,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -11115,18 +9999,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -11238,18 +10110,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -11367,18 +10227,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -11497,18 +10345,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -11625,18 +10461,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -11755,18 +10579,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -11883,18 +10695,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -12008,18 +10808,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -12129,18 +10917,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -12252,18 +11028,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -12382,18 +11146,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -12505,18 +11257,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -12634,18 +11374,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -12759,18 +11487,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$3",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -12872,18 +11588,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -12983,18 +11687,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -13093,18 +11785,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -13217,18 +11897,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -13341,18 +12009,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -13454,18 +12110,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$3",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -13566,18 +12210,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -13682,18 +12314,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -13805,18 +12425,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -13919,18 +12527,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -14016,18 +12612,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -14119,18 +12703,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -14217,18 +12789,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -14321,18 +12881,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -14426,18 +12974,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -14535,18 +13071,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -14637,18 +13161,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -14743,18 +13255,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -14852,18 +13352,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -14970,18 +13458,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -15091,18 +13567,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -15195,18 +13659,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -15313,18 +13765,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -15442,18 +13882,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -15572,18 +14000,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -15700,18 +14116,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -15814,18 +14218,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "BlueStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -15932,18 +14324,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -16062,18 +14442,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -16183,18 +14551,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -16306,18 +14662,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -16435,18 +14779,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -16564,18 +14896,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -16688,18 +15008,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -16813,18 +15121,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -16942,18 +15238,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -17070,18 +15354,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -17200,18 +15472,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -17329,18 +15589,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -17444,18 +15692,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -17568,18 +15804,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -17698,18 +15922,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -17821,18 +16033,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -17951,18 +16151,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -18080,18 +16268,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -18208,18 +16384,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -18338,18 +16502,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -18467,18 +16619,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -18591,18 +16731,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -18720,18 +16848,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -18840,18 +16956,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -18965,18 +17069,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -19089,18 +17181,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -19205,18 +17285,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -19323,18 +17391,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -19453,18 +17509,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -19577,18 +17621,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -19700,18 +17732,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -19829,18 +17849,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -19959,18 +17967,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -20079,18 +18075,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$2",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -20196,18 +18180,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -20306,18 +18278,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -20422,18 +18382,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -20534,18 +18482,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -20650,18 +18586,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -20752,18 +18676,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "GreenStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -20863,18 +18775,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -20988,18 +18888,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -21109,18 +18997,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -21216,18 +19092,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "BlueStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -21328,18 +19192,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -21438,18 +19290,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -21555,18 +19395,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -21666,18 +19494,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -21777,18 +19593,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -21887,18 +19691,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -22012,18 +19804,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -22133,18 +19913,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -22243,18 +20011,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -22360,18 +20116,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -22475,18 +20219,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -22587,18 +20319,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -22698,18 +20418,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -22808,18 +20516,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -22925,18 +20621,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23041,18 +20725,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23152,18 +20824,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23260,18 +20920,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23365,18 +21013,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -23477,18 +21113,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23585,18 +21209,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "GreenStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23698,18 +21310,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -23828,18 +21428,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -23956,18 +21544,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -24085,18 +21661,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -24209,18 +21773,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -24339,18 +21891,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -24462,18 +22002,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -24591,18 +22119,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$4",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$5",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -24721,18 +22237,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -24850,18 +22354,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -24973,18 +22465,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -25103,18 +22583,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -25226,18 +22694,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -25355,18 +22811,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -25485,18 +22929,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -25614,18 +23046,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -25738,18 +23158,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -25862,18 +23270,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -25982,18 +23378,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -26107,18 +23491,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -26230,18 +23602,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -26359,18 +23719,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -26489,18 +23837,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -26618,18 +23954,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -26746,18 +24070,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -26876,18 +24188,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -27005,18 +24305,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -27133,18 +24421,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -27258,18 +24534,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -27374,18 +24638,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -27497,18 +24749,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -27627,18 +24867,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -27755,18 +24983,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -27885,18 +25101,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -28014,18 +25218,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -28142,18 +25334,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -28272,18 +25452,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -28400,18 +25568,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -28530,18 +25686,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -28654,18 +25798,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -28769,18 +25901,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -28893,18 +26013,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -29017,18 +26125,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -29147,18 +26243,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -29271,18 +26355,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$2",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -29394,18 +26466,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -29524,18 +26584,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -29653,18 +26701,6 @@
           "this/Station",
           "univ"
         ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
-        ]
       }
     ],
     "edges": [
@@ -29781,18 +26817,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -29910,18 +26934,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],
@@ -30039,18 +27051,6 @@
           "this/NeutralStation",
           "this/Station",
           "univ"
-        ]
-      },
-      {
-        "id": "NeutralStation$0",
-        "type": [
-          "this/Outer"
-        ]
-      },
-      {
-        "id": "NeutralStation$1",
-        "type": [
-          "this/Inner"
         ]
       }
     ],

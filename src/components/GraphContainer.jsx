@@ -72,6 +72,7 @@ class GraphContainer extends Component {
 
   getNodes(pile) {
     let count = {}
+    console.log("count should be empty", count)
     let listNodes = []
 
     // get a single graph of the pile
@@ -91,7 +92,11 @@ class GraphContainer extends Component {
 
     // update opacity based on count
     for (let n in listNodes) {
-      listNodes[n]["opacity"] = count[listNodes[n].id]/pile.length;
+      let opacity = count[listNodes[n].id]/pile.length;
+      listNodes[n]["opacity"] = opacity;
+      if (opacity < 1) {
+        listNodes[n]["color"] = "#708090";
+      }
     }
 
     return listNodes;
@@ -118,7 +123,11 @@ class GraphContainer extends Component {
 
     // update opacity based on count
     for (let e in listEdges) {
-      listEdges[e]["color"] = { "opacity": count[listEdges[e].id]/pile.length };
+      let opacity = count[listEdges[e].id]/pile.length;
+      listEdges[e]["color"] = { "opacity": opacity };
+      if (opacity < 1) {
+        listEdges[e]["color"]["color"] = "#708090"
+      }
     }
 
     return listEdges;
